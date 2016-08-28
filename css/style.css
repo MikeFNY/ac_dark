@@ -1,0 +1,133 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, blockquote, pre,
+a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td
+{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: Arial;
+	border: 0px;
+}
+
+
+html
+{
+	overflow-y: scroll;
+	overflow-x: hidden;
+	font-family: Arial;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+
+body
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+ol, ul
+{
+	list-style: none;
+}
+
+
+p
+{
+	margin-top: 19px
+}
+
+
+.clearFloat
+{
+	clear: both;
+}
+
+
+img
+{
+	display: block;
+}
+
+
+a
+{
+	text-decoration: none;
+}
+
+
+td
+{
+	border: 1px solid black;
+	padding: 5px 10px 5px 10px;
+}
+
+
+.inner970
+{
+	width: 970px;
+	margin: 0 auto;
+	position: relative;
+}
+
+
+.spacing
+{
+	margin-top: 40px;
+}
+
+
+img
+{
+	margin: 0 auto;
+	padding-top: 10px;
+	width: 400px;
+}
+
+
+.img-spacing
+{
+	padding-top: 30px;
+}
+
+
+p.img-caption
+{
+	margin-top: 10px;
+	text-align: center;
+	font-style: italic;
+}
+
+
+.big-title
+{
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+
+ul.li-space li
+{
+	padding-bottom: 20px;
+}
+
+
+ul.li-space-small li
+{
+	padding-bottom: 10px;
+}
+
+
+.table-compare
+{
+	margin: 0 auto;
+	padding-top: 15px;
+}
+
+
+.table-compare td
+{
+	border: 0px;
+	padding: 0px;
+}
