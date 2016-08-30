@@ -78,6 +78,13 @@ td
 }
 
 
+iframe
+{
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+
 img
 {
 	margin: 0 auto;
