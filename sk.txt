@@ -1,0 +1,77 @@
+To understand what I'm suggesting, allow me to start with five problems I ended up with as I was thinking about the community, about the possibility of having it attacked, etc.:
+
+1. If you spend 5-10 hours to build this full-blown community - your idea - having it attacked and destroyed would be like losing your main story save game progress. I mean imagine ACIII's homestead towards the end of the game when it's complete and how you would feel having to start all over again.
+
+2. Assuming the assassin is new to the city, we would be back to what I call the "Henry Green" problem - why would you need your own hideout and why should you be the one to take care of it if the master assassin of the city(not you) is already there and we are to assume he and his team already have a hideout?
+
+3. Assuming the hideout is one, who will decide where you can build it? When I suggested, in another thread, that you should be able to strategically place doctors on the map, I was told that it may not be that easy to develop. So let's assume that these areas on the map will be pre-defined and limited in number, there is still a problem; that if you uncover all these areas and they are all taken over by templar attacks, you would end up with no place to have a community.
+
+4. To solve problem #3, you could have one main community hideout which cannot be attacked and smaller ones scattered around the map which can be attacked. But in this case, why the need for smaller hideouts if you have the big one?
+
+5. And even if the smaller hideouts are needed, why bother defending them when attacked? They are small so let the Templars take them and then you can easily take them back in the same way you took them in the first place.
+
+Here's how I would solve the above five issues.
+
+My idea is that your main hideout - what I'm referring to as "your idea" - cannot be attacked. And that's because of the progress you would lose if you fail to defend it. But I'm curious how you would solve this problem, I mean I would like the idea that if you act conspicuously for a long time, besides your caves(explained later), even the main hideout would suffer an attack, but if you fail to defend it what would happen?
+
+For now I'm assuming your main hideout cannot be attacked - but this could chance - so problems #1 and #3 of the above list are crossed out.
+
+This hideout would clearly be the one you can upgrade to achieve what you're suggesting so let's cancel out problem #2 as well. There is already a hideout at the start of the game, you don't have to find it on the map, it belongs to the Assassins and initially it's only used for training and hiding purposes.
+
+(By training I mean what I wrote about in my first article).
+
+One day you suggest:
+
+You: "Mentor, you say we have to work in the dark but we're exposing ourselves out there when we buy weapons from shops or repair our armour at the local blacksmith"
+Mentor: "What do you suggest?"
+You: "Let's build our OWN weapons! Let's craft our own armour and let's have our doctors for when we suffer injuries."
+Mentor: "Yes son, but we don't have anyone to craft weapons, create armour, etc. And we don't have where to host these people!"
+You: "Let me take care of everything, let me find a place and the people to run it."
+Mentor: "Ok, but be careful out there"
+
+See what I mean? This is not like the Fonz in Happy Days where everyone leaves the table when he steps into Al's place. That's what Henry Green did when the twins came to town, he had to leave the party to become a third wheel. This time you're "asking permission" to someone who has been in the city for a much longer time, someone who knows the city better than you.
+
+Let's move on to problem #4 and here comes a very provocative suggestion: remove fast travelling all together.
+
+One of Kotaku's writers loves to avoid fast travelling(http://kotaku.com/here-s-a-good-way-to-play-far-cry-primal-1762196454) and I believe it could make sense and not just to give a reason to have small hideouts in the game.
+
+My idea is that a number of pre-defined caves/undergrounds would be scattered around the map, ex:
+http://dl.gamesradar.com/guides/ACR-Galata.jpg
+
+I say cave in order to stick to the "work in the dark" rule. A public place like Arno's cafe in Unity would be too suspicious.
+
+Caves are guarded by templars so to make them yours you have to take on a side mission. Once conquered, inside the cave you can place:
+
+1. A doctor to heal you
+2. A blacksmith to repair your weapons
+3. A tailor to repair your armour
+
+And that's the second part of the side mission, finding these people.
+
+Something else: you'll use the doctor/blacksmith/tailor regularly so let's add an interesting aspect to the cave, a human side if you like. The healing/repair process will take more than just a second to complete so during those 25-45 seconds, whoever is doing the task will speak to you and reveal/say something such as:
+
+1. A treasure location on the map, you know, AC1-like when we had information instead of an icon on the map
+2. A lovely location on the map, maybe an iconic place worth visiting
+3. Pure gossip, like http://forums.ubi.com/showthread.php/771630-Interesting-ladies-Tea-conversation-in-the-Homestead-Forums
+
+Incidentally, this could be helpful to keep chests in the game hidden in its truest sence, make them more interesting to find, rather than just an icon on the map.
+
+Moving on.
+
+With fast travelling removed from the game, these caves will play a very important role whenever you will need to heal/repair. For example after completing a main mission you would need to heal and repair your stuff so having a cave nearby is a must. If not, you will have to travel a long distance on your horse to either find the closest cave or of course reach the main hideout.
+
+Now mind you, if the scenario is beautifully designed, players would be more than happy to travel on their horse, I think of Red Dead Redemption and those moments where I ended up riding my horse for no reason. In AC this was rarely possible, I think of AC3 and all the times my horse stopped because of a cliff and I had to continue on foot.
+
+Problem #5. This is pretty straight forward. If a cave is attacked, you cannot have it back and that's because templars will guard it very heavily. To expand a little on this, we said caves are pre-defined on the map, this means that when attacked, you will have a time limit in which you have to defend it. If you're lucky and you're close to the cave, you will be able to save it without losing it but if you're far away you will struggle to keep it yours.
+
+I believe GTA has a similar system for when you have to defend your businesses, if you're close you're lucky, if not you will fail to defend it.
+
+That's more or less all my ideas on the community, I didn't expand on the main hideout, the big one, that's your job :)
+
+To put it all together:
+
+1. The first city you visit in the game will be your reference point throughout the whole game
+2. That's where the Assassins hideout lies
+3. The main hideout - your idea - can be placed in any city but this would mean that all cities in the game should be open from Sequence #1
+4. In the early stages of the game you will start conquering caves
+5. At a later stage you will be able to open the main hideout
