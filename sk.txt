@@ -73,3 +73,5 @@ Questions:
 1. Assuming we will have different cities in the next game, where will the main hideout be? Will there be one big hideout space in every city and then it's up to the player to decide where the "special place" in the game is?
 
 2. How early in the game can the player liberate the main hideout? I was thinking that in the early stages of the game you will start conquering caves and at a later stage you will be able to open the main hideout
+
+3. Speaking of liberating the main hideout, since we're talking about a very large area, how will you make it yours? Will it be a big isolated place on the map or will it be a templar-occupied area that you have to liberate by taking on a "big" side mission?
