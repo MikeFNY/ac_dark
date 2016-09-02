@@ -14,7 +14,7 @@ Here's how I would solve the above five issues.
 
 My idea is that your main hideout - what I'm referring to as "your idea" - cannot be attacked. And that's because of the progress you would lose if you fail to defend it. But I'm curious how you would solve this problem, I mean I would like the idea that if you act conspicuously for a long time, besides your caves(explained later), even the main hideout would suffer an attack, but if you fail to defend it what would happen?
 
-For now I'm assuming your main hideout cannot be attacked - but this could chance - so problems #1 and #3 of the above list are crossed out.
+For now I'm assuming your main hideout cannot be attacked(but I'll wait for your feedback as this could change) so problems #1 and #3 of the above list are crossed out.
 
 This hideout would clearly be the one you can upgrade to achieve what you're suggesting so let's cancel out problem #2 as well. There is already a hideout at the start of the game, you don't have to find it on the map, it belongs to the Assassins and initially it's only used for training and hiding purposes.
 
