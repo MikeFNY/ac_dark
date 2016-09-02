@@ -68,10 +68,8 @@ I believe GTA has a similar system for when you have to defend your businesses, 
 
 That's more or less all my ideas on the community, I didn't expand on the main hideout, the big one, that's your job :)
 
-To put it all together:
+Questions:
 
-1. The first city you visit in the game will be your reference point throughout the whole game
-2. That's where the Assassins hideout lies
-3. The main hideout - your idea - can be placed in any city but this would mean that all cities in the game should be open from Sequence #1
-4. In the early stages of the game you will start conquering caves
-5. At a later stage you will be able to open the main hideout
+1. Assuming we will have different cities in the next game, where will the main hideout be? Will there be one big hideout space in every city and then it's up to the player to decide where the "special place" in the game is?
+
+2. How early in the game can the player liberate the main hideout? I was thinking that in the early stages of the game you will start conquering caves and at a later stage you will be able to open the main hideout
